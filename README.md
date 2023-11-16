@@ -30,7 +30,7 @@ I own a company named Viron, if you would like to check it out, make sure to cli
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python%232C2D72.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/py%232C2D72.svg?style=for-the-badge&logo=py&logoColor=white"></a>
 </p>
 
 
