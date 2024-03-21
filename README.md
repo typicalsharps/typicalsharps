@@ -3,7 +3,7 @@
 
 ## Glad to see you here!
 Hey there, I'm a young designer, I have knowledge in things such as Roblox Developing, and I'm still learning how to code.
-I own a company named Viron, if you would like to check it out, make sure to click the Discord icon above.
+I usally talk on Unitas, if you would like to check it out, make sure to click the Discord icon above.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="408" height="318" />
 
@@ -14,8 +14,8 @@ I own a company named Viron, if you would like to check it out, make sure to cli
 - 🌱 I'm currently advancing my skills:
   - Coding
   - Cooking
-- 👯 Join [Viron's Discord Server](https://discord.gg/pakbzBXFSQ)
-- 📬 How to reach me: typicalsharps on Discord
+- 👯 Join [Unitas' Discord Server](https://discord.gg/nq4bPTDUaE)
+- 📬 How to reach me: wantedsharps on Discord
 
 ---
 
